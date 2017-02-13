@@ -33,3 +33,28 @@ Project DuSk v3.6.0
 \\ Fixed Bugs
 \\ Added More Menu's in
 \\ Fixed Check For Updates!
+
+Project DuSk v4.0.0
+\\Faster startup
+\\Easier access
+\\Bug Fixes
+\\Huge Update
+\\Added new Menus
+Project DuSk v4.1
+\\Added in more menus
+\\Fixed Bugs
+\\Faster startup
+Project DuSk v4.2
+\\Bug fixes
+\\New Menus
+
+Project DuSk v4.3
+\\Bug Fixes
+\\New Menus
+\\Faster startup
+\\Cleaner startup
+\\Cleaned up SourceCode
+Project DuSk v4.5 (PLAN)
+\\Fix more bugs,
+\\Add more new menus
+\\Add New Pages for easier access.
